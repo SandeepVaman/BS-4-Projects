@@ -31,7 +31,8 @@ body{
     opacity: 0.8;
 }
 
-#home-section .fas{
+#home-section .fas,
+#share-section .fas{
     color: #008ed6;
     background: white;
     padding:5px;
@@ -44,4 +45,5 @@ body{
     padding:5px;
     border-radius: 5px;
 }
+
 
